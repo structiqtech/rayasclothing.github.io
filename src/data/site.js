@@ -18,6 +18,7 @@ export const company = {
   email: 'sales@rayasclothing.com',
   phone: '720-608-9945',
   location: 'Laurel, MD',
+  footerName: 'Rayas Clothing LLC'
 };
 
 export const navItems = [

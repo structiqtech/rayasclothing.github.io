@@ -149,7 +149,7 @@ export default function SiteLayout() {
         </div>
         <div className="border-t border-white/10 py-5">
           <div className="container-page text-xs text-white/55">
-            &copy; {new Date().getFullYear()} {company.name}. All rights reserved.
+            &copy; {new Date().getFullYear()} {company.footerName}. All rights reserved.
           </div>
         </div>
       </footer>
